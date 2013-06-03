@@ -1,6 +1,6 @@
 {
   "name": "polyfill-string",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Add useful functions to strings",
   "keywords": ["polyfill","string","entityify",
     "quote","supplant","trim","deletion",
