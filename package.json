@@ -1,8 +1,10 @@
 {
   "name": "polyfill-string",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Add useful functions to strings",
-  "keywords": ["polyfill","string","entityify","quote","supplant","trim"],
+  "keywords": ["polyfill","string","entityify",
+    "quote","supplant","trim","deletion",
+    "transpostion","substitution","insertion","generation","Damerau-Levenshtein"],
   "author": "John Henry <john@iamjohnhenry.com>",
   "homepage": "https://github.com/johnhenry/polyfill-string",
   "repository": {
